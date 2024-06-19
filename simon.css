@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.maroon {
+    background-color: rgb(202, 29, 29);
+}
+
+.sky {
+    background-color: skyblue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.flash {
+    background-color: white;
+}
